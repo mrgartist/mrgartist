@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrgartist
+- 👋 Hi, I’m @mrgartist, call me Riley
 - 🌱 I’m currently learning C# and JavaScript
 - 📫 How to reach me: megs.developer@gmail.com
 - 😄 Pronouns: she/her
